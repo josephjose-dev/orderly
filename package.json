@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://GITHUB_USERNAME.github.io/REPO_NAME",
+  "homepage": "https://josephjose-dev.github.io/orderly",
   "dependencies": {
     "exceljs": "^4.4.0",
     "file-saver": "^2.0.5",
